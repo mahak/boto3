@@ -2,6 +2,68 @@
 CHANGELOG
 =========
 
+1.5.7
+=====
+
+* api-change:``workspaces``: [``botocore``] Update workspaces client to latest version
+
+
+1.5.6
+=====
+
+* api-change:``ecs``: [``botocore``] Update ecs client to latest version
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``inspector``: [``botocore``] Update inspector client to latest version
+* api-change:``sagemaker``: [``botocore``] Update sagemaker client to latest version
+
+
+1.5.5
+=====
+
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* enhancement:Paginator: [``botocore``] Added paginator support for lambda list aliases operation.
+* api-change:``kinesisanalytics``: [``botocore``] Update kinesisanalytics client to latest version
+* api-change:``codebuild``: [``botocore``] Update codebuild client to latest version
+
+
+1.5.4
+=====
+
+* api-change:``iot``: [``botocore``] Update iot client to latest version
+* api-change:``config``: [``botocore``] Update config client to latest version
+
+
+1.5.3
+=====
+
+* api-change:``route53``: [``botocore``] Update route53 client to latest version
+* api-change:``apigateway``: [``botocore``] Update apigateway client to latest version
+* api-change:``mediastore-data``: [``botocore``] Update mediastore-data client to latest version
+
+
+1.5.2
+=====
+
+* bugfix:presigned-url: [``botocore``] Fixes a bug where content-type would be set on presigned requests for query services.
+* api-change:``cloudwatch``: [``botocore``] Update cloudwatch client to latest version
+
+
+1.5.1
+=====
+
+* api-change:``appstream``: [``botocore``] Update appstream client to latest version
+
+
+1.5.0
+=====
+
+* bugfix:Filters: Fixes a bug where parameters passed to resource collections could be mutated after the collections were created.
+* api-change:``ses``: [``botocore``] Update ses client to latest version
+* enhancement:credentials: [``botocore``] Moved the JSONFileCache from the CLI into botocore so that it can be used without importing from the cli.
+* feature:``botocore`` dependency: Update dependency strategy to always take a floor on the most recent version of ``botocore``. This means whenever there is a release of ``botocore``, ``boto3`` will release as well to account for the new version of ``botocore``.
+* api-change:``apigateway``: [``botocore``] Update apigateway client to latest version
+
+
 1.4.8
 =====
 
