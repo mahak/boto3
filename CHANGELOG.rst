@@ -2,6 +2,20 @@
 CHANGELOG
 =========
 
+1.5.9
+=====
+
+* api-change:``ssm``: [``botocore``] Update ssm client to latest version
+* api-change:``inspector``: [``botocore``] Update inspector client to latest version
+* api-change:``snowball``: [``botocore``] Update snowball client to latest version
+
+
+1.5.8
+=====
+
+* api-change:``rds``: [``botocore``] Update rds client to latest version
+
+
 1.5.7
 =====
 
