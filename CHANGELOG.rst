@@ -2,6 +2,94 @@
 CHANGELOG
 =========
 
+1.7.35
+======
+
+* api-change:``mediatailor``: [``botocore``] Update mediatailor client to latest version
+
+
+1.7.34
+======
+
+* api-change:``medialive``: [``botocore``] Update medialive client to latest version
+
+
+1.7.33
+======
+
+* api-change:``polly``: [``botocore``] Update polly client to latest version
+* api-change:``ce``: [``botocore``] Update ce client to latest version
+* api-change:``secretsmanager``: [``botocore``] Update secretsmanager client to latest version
+* api-change:``shield``: [``botocore``] Update shield client to latest version
+* api-change:``rds``: [``botocore``] Update rds client to latest version
+
+
+1.7.32
+======
+
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``sagemaker``: [``botocore``] Update sagemaker client to latest version
+* api-change:``mgh``: [``botocore``] Update mgh client to latest version
+* api-change:``mediaconvert``: [``botocore``] Update mediaconvert client to latest version
+* api-change:``appstream``: [``botocore``] Update appstream client to latest version
+* api-change:``eks``: [``botocore``] Update eks client to latest version
+
+
+1.7.31
+======
+
+* api-change:``ds``: [``botocore``] Update ds client to latest version
+* api-change:``mediatailor``: [``botocore``] Update mediatailor client to latest version
+* api-change:``sns``: [``botocore``] Update sns client to latest version
+* api-change:``redshift``: [``botocore``] Update redshift client to latest version
+* api-change:``iot``: [``botocore``] Update iot client to latest version
+
+
+1.7.30
+======
+
+* api-change:``neptune``: [``botocore``] Update neptune client to latest version
+* api-change:``elbv2``: [``botocore``] Update elbv2 client to latest version
+
+
+1.7.29
+======
+
+* api-change:``pi``: [``botocore``] Update pi client to latest version
+
+
+1.7.28
+======
+
+* api-change:``iot``: [``botocore``] Update iot client to latest version
+* api-change:``config``: [``botocore``] Update config client to latest version
+* api-change:``appstream``: [``botocore``] Update appstream client to latest version
+* api-change:``glue``: [``botocore``] Update glue client to latest version
+
+
+1.7.27
+======
+
+* api-change:``secretsmanager``: [``botocore``] Update secretsmanager client to latest version
+* api-change:``codebuild``: [``botocore``] Update codebuild client to latest version
+* api-change:``rds``: [``botocore``] Update rds client to latest version
+* api-change:``elbv2``: [``botocore``] Update elbv2 client to latest version
+
+
+1.7.26
+======
+
+* api-change:``inspector``: [``botocore``] Update inspector client to latest version
+* enhancement:Credentials: [``botocore``] Disable proxy configuration when fetching container credentials
+* api-change:``ecs``: [``botocore``] Update ecs client to latest version
+
+
+1.7.25
+======
+
+* api-change:``cloudformation``: [``botocore``] Update cloudformation client to latest version
+
+
 1.7.24
 ======
 
