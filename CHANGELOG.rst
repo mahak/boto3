@@ -2,6 +2,103 @@
 CHANGELOG
 =========
 
+1.7.48
+======
+
+* api-change:``elasticbeanstalk``: [``botocore``] Update elasticbeanstalk client to latest version
+* api-change:``storagegateway``: [``botocore``] Update storagegateway client to latest version
+* api-change:``lambda``: [``botocore``] Update lambda client to latest version
+
+
+1.7.47
+======
+
+* api-change:``cloudfront``: [``botocore``] Update cloudfront client to latest version
+* api-change:``comprehend``: [``botocore``] Update comprehend client to latest version
+* api-change:``codepipeline``: [``botocore``] Update codepipeline client to latest version
+* api-change:``secretsmanager``: [``botocore``] Update secretsmanager client to latest version
+* enhancement:StreamingResponses: [``botocore``] Add ``iter_lines()`` and ``iter_chunks()`` to streaming responses (`#1195 <https://github.com/boto/botocore/issues/1195>`__)
+
+
+1.7.46
+======
+
+* api-change:``secretsmanager``: [``botocore``] Update secretsmanager client to latest version
+* api-change:``s3``: [``botocore``] Update s3 client to latest version
+* api-change:``inspector``: [``botocore``] Update inspector client to latest version
+
+
+1.7.45
+======
+
+* api-change:``appstream``: [``botocore``] Update appstream client to latest version
+* api-change:``alexaforbusiness``: [``botocore``] Update alexaforbusiness client to latest version
+
+
+1.7.44
+======
+
+* api-change:``clouddirectory``: [``botocore``] Update clouddirectory client to latest version
+
+
+1.7.43
+======
+
+* api-change:``ssm``: [``botocore``] Update ssm client to latest version
+* api-change:``macie``: [``botocore``] Update macie client to latest version
+* api-change:``neptune``: [``botocore``] Update neptune client to latest version
+
+
+1.7.42
+======
+
+* api-change:``acm-pca``: [``botocore``] Update acm-pca client to latest version
+* api-change:``rds``: [``botocore``] Update rds client to latest version
+* api-change:``medialive``: [``botocore``] Update medialive client to latest version
+
+
+1.7.41
+======
+
+* api-change:``rekognition``: [``botocore``] Update rekognition client to latest version
+
+
+1.7.40
+======
+
+* api-change:``mediaconvert``: [``botocore``] Update mediaconvert client to latest version
+
+
+1.7.39
+======
+
+* api-change:``iotanalytics``: [``botocore``] Update iotanalytics client to latest version
+* api-change:``dynamodb``: [``botocore``] Update dynamodb client to latest version
+* api-change:``apigateway``: [``botocore``] Update apigateway client to latest version
+
+
+1.7.38
+======
+
+* api-change:``ssm``: [``botocore``] Update ssm client to latest version
+* api-change:``servicecatalog``: [``botocore``] Update servicecatalog client to latest version
+
+
+1.7.37
+======
+
+* api-change:``ecs``: [``botocore``] Update ecs client to latest version
+* api-change:``devicefarm``: [``botocore``] Update devicefarm client to latest version
+
+
+1.7.36
+======
+
+* api-change:``storagegateway``: [``botocore``] Update storagegateway client to latest version
+* api-change:``rds``: [``botocore``] Update rds client to latest version
+* api-change:``clouddirectory``: [``botocore``] Update clouddirectory client to latest version
+
+
 1.7.35
 ======
 
