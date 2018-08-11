@@ -2,6 +2,225 @@
 CHANGELOG
 =========
 
+1.7.75
+======
+
+* api-change:``rds``: [``botocore``] Update rds client to latest version
+* api-change:``mediaconvert``: [``botocore``] Update mediaconvert client to latest version
+
+
+1.7.74
+======
+
+* api-change:``rds``: [``botocore``] Update rds client to latest version
+* api-change:``dax``: [``botocore``] Update dax client to latest version
+* api-change:``ecs``: [``botocore``] Update ecs client to latest version
+
+
+1.7.73
+======
+
+* api-change:``secretsmanager``: [``botocore``] Update secretsmanager client to latest version
+* api-change:``ssm``: [``botocore``] Update ssm client to latest version
+
+
+1.7.72
+======
+
+* api-change:``logs``: [``botocore``] Update logs client to latest version
+* api-change:``codebuild``: [``botocore``] Update codebuild client to latest version
+* api-change:``ssm``: [``botocore``] Update ssm client to latest version
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``pinpoint``: [``botocore``] Update pinpoint client to latest version
+
+
+1.7.71
+======
+
+* api-change:``health``: [``botocore``] Update health client to latest version
+* api-change:``dynamodb``: [``botocore``] Update dynamodb client to latest version
+
+
+1.7.70
+======
+
+* api-change:``alexaforbusiness``: [``botocore``] Update alexaforbusiness client to latest version
+
+
+1.7.69
+======
+
+* api-change:``polly``: [``botocore``] Update polly client to latest version
+* api-change:``ssm``: [``botocore``] Update ssm client to latest version
+* api-change:``kinesis``: [``botocore``] Update kinesis client to latest version
+* api-change:``resource-groups``: [``botocore``] Update resource-groups client to latest version
+
+
+1.7.68
+======
+
+* api-change:``storagegateway``: [``botocore``] Update storagegateway client to latest version
+* api-change:``transcribe``: [``botocore``] Update transcribe client to latest version
+
+
+1.7.67
+======
+
+* api-change:``kms``: [``botocore``] Update kms client to latest version
+* api-change:``mediaconvert``: [``botocore``] Update mediaconvert client to latest version
+* api-change:``es``: [``botocore``] Update es client to latest version
+* api-change:``iot``: [``botocore``] Update iot client to latest version
+* api-change:``connect``: [``botocore``] Update connect client to latest version
+
+
+1.7.66
+======
+
+* api-change:``directconnect``: [``botocore``] Update directconnect client to latest version
+* api-change:``glue``: [``botocore``] Update glue client to latest version
+* api-change:``iot``: [``botocore``] Update iot client to latest version
+* api-change:``cloudhsmv2``: [``botocore``] Update cloudhsmv2 client to latest version
+* api-change:``sagemaker``: [``botocore``] Update sagemaker client to latest version
+* api-change:``mq``: [``botocore``] Update mq client to latest version
+* enhancment:Timestamp Serialization: [``botocore``] Support explicit timestamp serialization per timestamp shape.
+* api-change:``glacier``: [``botocore``] Update glacier client to latest version
+
+
+1.7.65
+======
+
+* api-change:``ssm``: [``botocore``] Update ssm client to latest version
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``greengrass``: [``botocore``] Update greengrass client to latest version
+* api-change:``inspector``: [``botocore``] Update inspector client to latest version
+* api-change:``codebuild``: [``botocore``] Update codebuild client to latest version
+* api-change:``redshift``: [``botocore``] Update redshift client to latest version
+
+
+1.7.64
+======
+
+* api-change:``ecs``: [``botocore``] Update ecs client to latest version
+* api-change:``elbv2``: [``botocore``] Update elbv2 client to latest version
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+
+
+1.7.63
+======
+
+* api-change:``dynamodb``: [``botocore``] Update dynamodb client to latest version
+
+
+1.7.62
+======
+
+* api-change:``config``: [``botocore``] Update config client to latest version
+* api-change:``dlm``: [``botocore``] Update dlm client to latest version
+
+
+1.7.61
+======
+
+* api-change:``mediapackage``: [``botocore``] Update mediapackage client to latest version
+
+
+1.7.60
+======
+
+* api-change:``iotanalytics``: [``botocore``] Update iotanalytics client to latest version
+
+
+1.7.59
+======
+
+* api-change:``sagemaker``: [``botocore``] Update sagemaker client to latest version
+* api-change:``polly``: [``botocore``] Update polly client to latest version
+* api-change:``comprehend``: [``botocore``] Update comprehend client to latest version
+* api-change:``snowball``: [``botocore``] Update snowball client to latest version
+
+
+1.7.58
+======
+
+* api-change:``kinesisvideo``: [``botocore``] Update kinesisvideo client to latest version
+* api-change:``appstream``: [``botocore``] Update appstream client to latest version
+* api-change:``kinesis-video-archived-media``: [``botocore``] Update kinesis-video-archived-media client to latest version
+
+
+1.7.57
+======
+
+* api-change:``iam``: [``botocore``] Update iam client to latest version
+* api-change:``dlm``: [``botocore``] Update dlm client to latest version
+* api-change:``appsync``: [``botocore``] Update appsync client to latest version
+* api-change:``efs``: [``botocore``] Update efs client to latest version
+* api-change:``codebuild``: [``botocore``] Update codebuild client to latest version
+* api-change:``emr``: [``botocore``] Update emr client to latest version
+
+
+1.7.56
+======
+
+* api-change:``ssm``: [``botocore``] Update ssm client to latest version
+* api-change:``s3``: [``botocore``] Update s3 client to latest version
+* api-change:``apigateway``: [``botocore``] Update apigateway client to latest version
+* api-change:``ce``: [``botocore``] Update ce client to latest version
+
+
+1.7.55
+======
+
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``codebuild``: [``botocore``] Update codebuild client to latest version
+* api-change:``glue``: [``botocore``] Update glue client to latest version
+* api-change:``opsworks``: [``botocore``] Update opsworks client to latest version
+* api-change:``appstream``: [``botocore``] Update appstream client to latest version
+
+
+1.7.54
+======
+
+* api-change:``application-autoscaling``: [``botocore``] Update application-autoscaling client to latest version
+
+
+1.7.53
+======
+
+* api-change:``application-autoscaling``: [``botocore``] Update application-autoscaling client to latest version
+* api-change:``lambda``: [``botocore``] Update lambda client to latest version
+* api-change:``dms``: [``botocore``] Update dms client to latest version
+* api-change:``ce``: [``botocore``] Update ce client to latest version
+* api-change:``transcribe``: [``botocore``] Update transcribe client to latest version
+
+
+1.7.52
+======
+
+* api-change:``mediaconvert``: [``botocore``] Update mediaconvert client to latest version
+* api-change:``serverlessrepo``: [``botocore``] Update serverlessrepo client to latest version
+
+
+1.7.51
+======
+
+* api-change:``sagemaker``: [``botocore``] Update sagemaker client to latest version
+* api-change:``pinpoint``: [``botocore``] Update pinpoint client to latest version
+
+
+1.7.50
+======
+
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``redshift``: [``botocore``] Update redshift client to latest version
+* api-change:``acm``: [``botocore``] Update acm client to latest version
+
+
+1.7.49
+======
+
+* api-change:``ssm``: [``botocore``] Update ssm client to latest version
+
+
 1.7.48
 ======
 
